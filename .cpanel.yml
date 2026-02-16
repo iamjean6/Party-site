@@ -1,0 +1,10 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home3/ldpkenya/repositories/Party-site
+    # If your server handles the build process, include these lines.
+    # Otherwise, build locally and ensure 'dist' is committed (remove from .gitignore).
+    - /bin/npm install
+    - /bin/npm run build
+    # Copy the build output to the public_html directory
+    - /bin/cp -R dist/* $DEPLOYPATH

@@ -117,7 +117,7 @@ tl.from('#learn-more',{
     hover:bg-green-300 
     transition
   "
-  onClick={() => navigate("/agenda")}
+
 />
 </div>
         
