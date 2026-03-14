@@ -52,9 +52,9 @@
       role: "Party CEO",
       image: "img/partyceo.jpeg",
       bio: "Nickson Kimeta oversees daily operations of the party and coordinates administrative and political activities with precision and transparency...",
-      email: "ceo@ldp.org",
+      email: "libdenkenya@gmail.com/sg@ldpkenya.com",
       phone: "+254 712345678",
-      address: "456 Executive Rd, Nairobi, Kenya",
+      address: "PO BOX 31898 - 00600, Nairobi, Kenya",
         socials: {
     facebook: "https://facebook.com/fred.ogola",
     twitter: "https://twitter.com/fredogola",
@@ -80,40 +80,6 @@
   }
     },
    
-  
-
-    {
-      name: "Mary Achieng",
-      role: "Treasurer",
-      image: "img/kenya1.jpeg",
-      bio: "Mary Achieng manages the party’s finances, budgeting, and reporting, ensuring transparency and accountability across all operations...",
-      email: "mary@ldp.org",
-      phone: "+254 723456789",
-      address: "321 Finance St, Nairobi, Kenya",
-        socials: {
-    facebook: "https://facebook.com/fred.ogola",
-    twitter: "https://twitter.com/fredogola",
-    linkedin: "https://linkedin.com/in/fredogola",
-    instagram: "https://instagram.com/fred.ogola",
-    tiktok: "https://tiktok.com/@fredogola"
-  }
-    },
-    {
-      name: "Paul Kamau",
-      role: "Volunteer",
-      image: "img/kenya1.jpeg",
-      bio: "Paul Kamau supports community engagement and volunteer coordination within the party's outreach programs...",
-      email: "paul@ldp.org",
-      phone: "+254 734567890",
-      address: "654 Volunteer Ave, Nairobi, Kenya",
-        socials: {
-    facebook: "https://facebook.com/fred.ogola",
-    twitter: "https://twitter.com/fredogola",
-    linkedin: "https://linkedin.com/in/fredogola",
-    instagram: "https://instagram.com/fred.ogola",
-    tiktok: "https://tiktok.com/@fredogola"
-  }
-    },
   ];
   const requirements = [
     "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
