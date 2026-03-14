@@ -65,11 +65,11 @@ export default function Footer() {
               <div className="space-y-3 mb-6">
                 <div className=" font-robert-medium flex items-center gap-3 text-sm">
                   <Mail className="w-4 h-4 text-blue-400" />
-                  <span>ldpkenya@gmail.com</span>
+                  <span>libdemkenya@gmail.com</span>
                 </div>
                 <div className="flex items-center gap-3 text-sm">
                   <Phone className="w-4 h-4 text-blue-400" />
-                  <span>+254 7034898908</span>
+                  <span>+254 704768765</span>
                 </div>
                 <div className="flex items-center gap-3 text-sm">
                   <MapPin className="w-4 h-4 text-blue-400" />

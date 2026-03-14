@@ -40,29 +40,27 @@ const Contacts = () => {
                         Our Headquarters
                     </h4>
                     <p className='text-gray-600 text-sm'>
-                        <strong>Kenya:</strong> Embakasi Road
+                        <strong>Kenya:</strong> P.O BOX 31898-00600 Nrb
                     </p>
-                    <p className='text-gray-600 text-sm'>
-                        <strong>Kenya:</strong> Embakasi Road
-                    </p>
+                    
                 </div>
                 <div>
                     <h4 className='text-sm font-semibold uppercase text-gray-900 mb-2'>
-                       Reach Us 25/7 via Phone 
+                       Reach Us 24/7 via Phone 
                     </h4>
                     <p className="text-gray-600 text-sm">
-                        <strong>Nairobi:</strong> +2547-324-7382
+                        <strong>Nairobi:</strong> +254704768765
                         </p>
                     <p className="text-gray-600 text-sm">
-                        <strong>Kisumu:</strong> +2547-324-7383
+                        <strong>Kisumu:</strong> +254722755223
                         </p>
                 </div>
                 <div>
                     <h4 className="text-sm font-semibold uppercase text-gray-900 mb-2">
                         Mail Us Anytime
                     </h4>
-                <p className="text-gray-600 text-sm">donations@politica.tld</p>
-                <p className="text-gray-600 text-sm">campaign@politica.tld</p>
+                <p className="text-gray-600 text-sm">libdemkenya@gmail.com</p>
+                <p className="text-gray-600 text-sm">info@ldpkenya.com</p>
                 </div>
             </div>
 
