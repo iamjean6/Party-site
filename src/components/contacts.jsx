@@ -8,7 +8,7 @@ const Contacts = () => {
       <div className='relative h-[60vh] md:h-[70vh]'>
          <div className='absolute inset-0'>
             <img
-            src="/img/kenya1.jpeg"
+            src="/img/safari.jpg"
             alt='campaign'
             className='h-full w-full object-cover'
             />
@@ -18,9 +18,7 @@ const Contacts = () => {
             <h1 className='text-white text-4xl md:text-6xl font-extrabold leading-tight'>
                 Connect With The <br/> Party
              </h1>
-            <p className="mt-4 max-w-xl text-white/80 text-lg md:text-base italic">
-            Donec feugiat et odio ut viverra. Nulla non massa hendrerit
-            </p>
+          
          </div>
         
       </div>

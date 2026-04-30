@@ -69,7 +69,7 @@ const Counter = () => {
         </h1>
 
         <p className='text-lg md:text-xl italic text-center mb-12 opacity-90'>
-          Donec feugiat et odio ut viverra. Nulla non massa hendrerit
+          Join us as we count down to a new era of leadership and progress in Kenya.
         </p>
 
         <div className='flex flex-wrap gap-6 justify-center'>

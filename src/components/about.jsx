@@ -52,7 +52,7 @@ const About = () => {
           <div className='relative'>
             <div className='relative rounded-lg  shadow-lg'>
               <img 
-                src="img/ogola3.jpeg" 
+                src="img/site1.jpg" 
                 alt="Kenya landscape" 
                 className='w-full h-auto  md:h-[600px] rounded-lg lg:h-[800px] object-cover'
               />

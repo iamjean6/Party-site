@@ -66,11 +66,11 @@
     {
        name: "Professor Fred Ogola, PhD",
   role: "Presidential Aspirant",
-  image: "img/MD2_8837.jpg",
+  image: "/img/MD2_8837.jpg",
   bio: "Professor Fred Ogola is an accomplished strategist, economist, and thought leader, widely recognised for his exceptional contribution to corporate strategy, governance, and economic transformation in Africa and internationally. He served as the Deputy Vice Chancellor for Strategy, Innovation, and Resource Mobilisation at Strathmore University, leading institutional strategy development and execution with visionary precision. Holding a PhD and a Master of Research from ESADE Business School, Barcelona, and an MBA from the Catholic University of Eastern Africa (CUEA), he also possesses five undergraduate degrees in Psychology, Philosophy, Theology, Economics, and Urban Planning, reflecting his multidisciplinary intellect and holistic approach to problem-solving. With over 1,671 strategic plans formulated and more than 5,000 organisations trained, impacting over 1,000,000 executives, Professor Ogola has established himself as one of Africa’s foremost minds in strategy and leadership development, advising institutions globally, including the Reserve Bank of India and contributing to economic turnaround strategies for the PIIGS economies under the European Central Bank. In Kenya, he has guided numerous government agencies, including the Kenya National Highways Authority (KeNHA), Athi Water Works Development Agency, and the Vision 2030 Secretariat. As a renowned public intellectual, he has appeared in over 200 television interviews on economics, governance, and leadership, and is a prolific author with over 50 peer-reviewed articles, 3,000 newspaper articles, 483 academic curricula, and two best-selling books, including the Strategic Thinking Series, which sold over 76,000 copies across Africa. Professor Ogola is also a captivating keynote speaker whose notable engagements include lectures at Fordham University, INSEAD Business School, the University of Nairobi, Rongo University, Kenya Orthopaedic Association Annual Conference, Reserve Bank of India, Institute of Directors Kenya (IOD-Kenya), Association of Women Accountants of Kenya (AWAK), and the Stanbic Bank Connect Program delivering nationwide financial literacy sessions for SMEs across 34 major towns in Kenya."
  , email: "ldp@gmail.com",
       phone: "+254 704124567",
-      address: "123 Liberty St, Nairobi, Kenya",
+      address: "PO BOX 31898 - 00600, Nairobi, Kenya",
      socials: {
     facebook: "https://facebook.com/fred.ogola",
     twitter: "https://twitter.com/fredogola",

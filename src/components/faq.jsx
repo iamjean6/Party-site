@@ -47,7 +47,7 @@ const FAQSection = () => {
               
               {/* Image */}
               <img 
-                src="/img/ogola4.jpeg" 
+                src="/img/kenya1.png" 
                 alt="Person working" 
                 className="w-full h-full object-cover"
               />
@@ -60,18 +60,14 @@ const FAQSection = () => {
             {/* Text Content */}
             <div className="space-y-4">
               <p className="text-gray-600 leading-relaxed">
-                Leverage agile frameworks to provide a robust synopsis for high level 
-                overviews. Iterative approaches to corporate strategy foster 
-                collaborative thinking to further the overall value proposition. 
-                Organically grow the holistic world view of disruptive innovation via 
-                workplace diversity and empowerment.
+                The LDP-Kenya (Liberal Democratic Party of Kenya) is committed to providing a strong and forward-looking vision for the nation. Through inclusive leadership and people-centered 
+                policies, the party promotes transparency, accountability, and sustainable development. By embracing progressive frameworks, LDP-Kenya seeks to empower citizens, strengthen democratic 
+                institutions, and ensure that every voice contributes to shaping the country’s future.Guided by collaboration and innovation, LDP-Kenya fosters a culture of unity and shared responsibility.
+                 The party believes in leveraging diversity as a strength,bringing together communities, ideas, and talents to drive national growth. Its approach encourages participatory governance, where citizens actively engage in decision-making and policy development
               </p>
               <p className="text-gray-600 leading-relaxed">
-                Bring to the table win-win survival strategies to ensure proactive 
-                domination. At the end of the day, going forward, a new normal that 
-                has evolved from generation X is on the runway heading towards a 
-                streamlined cloud solution. User generated content in real-time will 
-                have multiple touchpoints for offshoring.
+                LDP-Kenya stands for economic empowerment, social justice, and equal opportunity. It promotes strategies that create jobs, support entrepreneurship, and improve access to education, 
+                healthcare, and technology. As Kenya moves into a rapidly evolving global landscape, the party is dedicated to building resilient systems that adapt to change while prioritizing the well-being of its people.
               </p>
             </div>
 

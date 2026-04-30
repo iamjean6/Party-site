@@ -184,7 +184,7 @@ const Agenda = () => {
       <SwiperSlide>
   <div className="flex flex-col items-center justify-center h-50 md:h-60">
     <img
-      src="img/unity.jpg"
+      src="/img/about2.jpeg"
       className="h-40 md:h-48 lg:h-50 object-contain"
       alt="Justice Union"
     />
@@ -198,12 +198,12 @@ const Agenda = () => {
       <SwiperSlide>
   <div className="flex flex-col items-center justify-center h-50 md:h-60">
     <img
-      src="img/ogola1.jpeg"
+      src="/img/site2.jpg"
       className="h-40 md:h-48 lg:h-50 object-contain"
       alt="Master Law Firm"
     />
     <span className="mt-3 text-sm text-gray-500">
-      Civil Action
+      Youth Empowerment Initiative
     </span>
   </div>
 </SwiperSlide>
@@ -212,7 +212,7 @@ const Agenda = () => {
       <SwiperSlide>
   <div className="flex flex-col items-center justify-center h-50 md:h-60">
     <img
-      src="img/ogola1.jpeg"
+      src="img/site3.jpg"
       className="h-40 md:h-48 lg:h-50 object-contain"
       alt="Master Law Firm"
     />
@@ -308,7 +308,7 @@ const Agenda = () => {
       {/* PICTORIAL */}
       <div className="overflow-hidden h-full">
         <img
-          src="img/ogola1.jpeg"
+          src="img/about1.jpeg"
           alt="Party activity"
           className="w-full h-full object-cover"
         />
@@ -385,7 +385,7 @@ const Agenda = () => {
       {/* PICTORIAL */}
       <div className="overflow-hidden h-full">
         <img
-          src="img/ogola4.jpeg"
+          src="/img/site.jpg"
           alt="Community engagement"
           className="w-full h-full object-cover"
         />
