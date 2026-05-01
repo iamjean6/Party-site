@@ -97,12 +97,12 @@
   {
     id: 1,
     images:[
-        "/img/event1.jpeg",
-        "/img/event2.jpeg",
-        "/img/event3.jpeg",
-        "/img/event4.jpeg",
-        "/img/event5.jpeg",
-        "/img/event6.jpeg"
+        "/img/about1.jpeg",
+        "/img/about2.jpeg",
+        "/img/about3.jpeg",
+        "/img/about4.jpeg",
+        "/img/about5.jpeg",
+        
 
     ], 
     featured: true,
