@@ -45,7 +45,7 @@ const useCountdown = (targetDate) => {
         {/* Header */}
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl uppercase font-bold text-gray-900 mb-4">
-            Upcoming Events
+            UPDATES
           </h2>
           <p className="text-gray-600 text-sm md:text-base max-w-3xl mx-auto">
             Stay tuned for upcoming events and activities organized by our party.

@@ -34,7 +34,7 @@ const Agenda = () => {
           
         </h2>
          <p className="text-gray-500 text-lg md:text-xl italic">
-          Donec feugiat et odio ut viverra. Nulla non massa hendrerit
+            Our journey of progress and impact in Kenya's political landscape.
         </p>
       </div>
 
@@ -50,10 +50,7 @@ const Agenda = () => {
           </p>
 
           <div>
-            <h4 className="font-bold text-black">Prof Fred Ogola</h4>
-            <span className="text-sm text-gray-500">
-              Presidential Aspirant – Liberal Democratic Party
-            </span>
+            <h4 className="font-bold text-black">LDP Council</h4>
           </div>
 
           {/* Speech bubble pointer */}
@@ -67,7 +64,7 @@ const Agenda = () => {
           {/* Avatar */}
           <div className="absolute -bottom-20 left-8 ">
             <img
-              src="img/ogola.jpg"
+              src="/img/logo.jpeg"
               alt="Speaker"
               className="w-16 h-16 rounded-full object-cover"
             />

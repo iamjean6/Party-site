@@ -177,7 +177,7 @@
       comments: 2,
       description:
         "This podcast examines the dual pressures of economic conditionalities and unresolved colonial disputes pushing African nations toward strategic autonomy. We analyze the continent's deliberate shift towards independent policy formulation and its growing opposition to unipolar world politics.",
-      image: "/img/event3.jpeg",
+      image: "/img/about3.jpeg",
       link:"https://en.sputniknews.africa/20260123/breaking-colonial-chains-how-western-approaches-propel-africa-toward-policy-independence-1082750832.html"
       
     },
@@ -189,7 +189,7 @@
       comments: 2,
       description:
         "",
-      image: "/img/kenya1.jpeg",
+      image: "/img/about5.jpeg",
       link:"https://vt.tiktok.com/ZSaPBSbjT/"
       
     },
@@ -200,7 +200,7 @@
       day:"19 January 2026",
       comments: 2,
       description:"",
-      image: "/img/ogola.jpg",
+      image: "/img/about4.jpeg",
       link:"https://www.tiktok.com/@proffredogola/video/7597839531840343308?_r=1&_t=ZS-93GCcMQNrVI"
     },
       
